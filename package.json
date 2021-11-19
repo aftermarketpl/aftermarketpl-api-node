@@ -1,0 +1,25 @@
+{
+  "name": "aftermarketpl-api",
+  "version": "1.0.0",
+  "description": "Package allowing access to the AfterMarket.pl API",
+  "main": "aftermarketapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aftermarketpl/aftermarketpl-api-node.git"
+  },
+  "keywords": [
+    "aftermarket.pl"
+  ],
+  "author": "Michal Pleban",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aftermarketpl/aftermarketpl-api-node/issues"
+  },
+  "homepage": "https://github.com/aftermarketpl/aftermarketpl-api-node#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
